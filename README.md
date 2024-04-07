@@ -1,1 +1,2 @@
-# ECC_Demo
+# Elliptic Curve Cryptography Demo
+
